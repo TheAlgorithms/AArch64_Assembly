@@ -1,5 +1,13 @@
+/* ===============================
+
+   This program uses codes from Rosetta Code.
+   See: https://rosettacode.org/wiki/Perfect_numbers
+   This code follows Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+
+   =============================== */
+
 /* ARM assembly AARCH64 Raspberry PI 3B */
-/*  program perfectNumber64.s   */
+/*  program perfect_numbers.s   */
 /* use Euclide Formula : if M=(2puis p)-1 is prime M * (M+1)/2 is perfect see Wikipedia  */
 /*******************************************/
 /* Constantes file                         */

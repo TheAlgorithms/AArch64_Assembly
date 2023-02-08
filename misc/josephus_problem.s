@@ -1,7 +1,15 @@
+/* ===============================
+
+   This program uses codes from Rosetta Code.
+   See: https://rosettacode.org/wiki/Josephus_problem
+   This code follows Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+
+   =============================== */
+
 /* ARM assembly AARCH64 Raspberry PI 3B */
-/*  program josephus64.s   */
-/* run with josephus64 maxi intervalle */
-/* example : josephus64 41 3
+/*  program josephus_problem.s   */
+/* run with josephus_problem maxi intervalle */
+/* example : josephus_problem 41 3
  
 /*******************************************/
 /* Constantes file                         */

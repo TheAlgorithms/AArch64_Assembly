@@ -1,5 +1,13 @@
+/* ===============================
+
+   This program uses codes from Rosetta Code.
+   See: https://rosettacode.org/wiki/Y_combinator
+   This code follows Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+
+   =============================== */
+
 /* ARM assembly AARCH64 Raspberry PI 3B */
-/*  program Ycombi64.s   */
+/*  program y_combinator.s   */
  
 /*******************************************/
 /* Constantes file                         */

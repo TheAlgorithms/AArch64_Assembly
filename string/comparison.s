@@ -1,5 +1,13 @@
+/* ===============================
+
+   This program uses codes from Rosetta Code.
+   See: https://rosettacode.org/wiki/String_comparison
+   This code follows Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+
+   =============================== */
+
 /* ARM assembly AARCH64 Raspberry PI 3B */
-/*  program comparString64.s   */
+/*  program comparison.s   */
  
 /*******************************************/
 /* Constantes file                         */

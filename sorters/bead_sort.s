@@ -1,5 +1,13 @@
+/* ===============================
+
+   This program uses codes from Rosetta Code.
+   See: https://rosettacode.org/wiki/Sorting_algorithms/Bead_sort
+   This code follows Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+
+   =============================== */
+
 /* ARM assembly AARCH64 Raspberry PI 3B */
-/*  program beadSort64.s */
+/*  program bead_sort.s */
 /* En français tri par gravité ou tri par bille (ne pas confondre 
    avec tri par bulle (bubble sort)) */
  

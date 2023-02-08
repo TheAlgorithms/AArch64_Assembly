@@ -1,3 +1,11 @@
+/* ===============================
+
+   This program uses codes from Rosetta Code.
+   See: https://rosettacode.org/wiki/Hello_world/Text
+   This code follows Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+
+   =============================== */
+
 .equ STDOUT, 1
 .equ SVC_WRITE, 64
 .equ SVC_EXIT, 93

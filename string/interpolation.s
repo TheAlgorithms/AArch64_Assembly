@@ -1,5 +1,13 @@
+/* ===============================
+
+   This program uses codes from Rosetta Code.
+   See: https://rosettacode.org/wiki/String_interpolation_(included)
+   This code follows Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+
+   =============================== */
+
 /* ARM assembly AARCH64 Raspberry PI 3B */
-/*  program insertString64.s   */
+/*  program interpolation.s   */
 /* In assembler, there is no function to insert a chain */
 /* so this program offers two functions to insert    */
 /*******************************************/
